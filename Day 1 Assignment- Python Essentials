@@ -10,7 +10,7 @@ to install anaconda: 1.visit https://www.anaconda.com/products/individual
 to install python:
 1.Visit  https://www.python.org/downloads/
 2.download and run the installer
-
+-We can also use pycharm,visual studio code,sublime,python idle for running python code
 Q2.What are code environments?types?
 Ans:Code environment is tab or place where we can write a program,compile or run a program and also view the output  of the program.
 Types of the code environment:
